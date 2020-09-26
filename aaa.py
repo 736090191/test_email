@@ -26,3 +26,5 @@ f = open("111.txt","a")
 # print(type(str(time.time())))
 f.write(str(time.time()) + "\n")
 f.close()
+
+import os
