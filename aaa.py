@@ -22,7 +22,7 @@ __author__ = 'Administrator'
 # isinstance(x, str)
 
 import time
-f = open("111.txt","a")
+f = open("1112.txt","a")
 # print(type(str(time.time())))
 f.write(str(time.time()) + "\n")
 f.close()
